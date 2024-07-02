@@ -1,0 +1,3 @@
+discount_id,rental_id,discount_amount,year
+1,1,5000,2024
+2,,,
